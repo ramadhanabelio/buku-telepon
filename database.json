@@ -1,0 +1,2810 @@
+{
+  "Admin": {
+    "-NvjDgqnHGYD7dwtH1SV": {
+      "password": "magangkpi24",
+      "username": "adminitkpi"
+    }
+  },
+  "DataTelepon": {
+    "-NyT-lFfLVdQjE1o2j3P": {
+      "alamat": "VIP 3",
+      "bagian": "MAN PROD SPK",
+      "id": "-NyT-lFfLVdQjE1o2j3P",
+      "jabatan": "Manager Production Sei Pakning",
+      "namaKontak": "R. MOH. KUN TAUCHID",
+      "noPekerja": "0",
+      "telpKantor": "4200",
+      "telpRumah": "4334"
+    },
+    "-NyT0txrnLSYip8SS6xJ": {
+      "alamat": "Gedung Induk",
+      "bagian": "MAN PROD SPK",
+      "id": "-NyT0txrnLSYip8SS6xJ",
+      "jabatan": "Puskodal",
+      "namaKontak": "PUSKODAL KTR INDUK",
+      "noPekerja": "0",
+      "telpKantor": "4701",
+      "telpRumah": "0"
+    },
+    "-NyT1rnaDjvh25xn3UJm": {
+      "alamat": "Gedung Induk",
+      "bagian": "MAN PROD SPK",
+      "id": "-NyT1rnaDjvh25xn3UJm",
+      "jabatan": "Secretary Man Prod Spk",
+      "namaKontak": "SURYADI",
+      "noPekerja": "0",
+      "telpKantor": "4204",
+      "telpRumah": "0"
+    },
+    "-NyT2t8_nxenyHdzSpx9": {
+      "alamat": "JL. Anggrek R.01",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyT2t8_nxenyHdzSpx9",
+      "jabatan": "Off II Fac & Quality",
+      "namaKontak": "ISWANDI",
+      "noPekerja": "743023",
+      "telpKantor": "4214",
+      "telpRumah": "4679"
+    },
+    "-NyT4Si3KFDgjSVN6SGt": {
+      "alamat": "Gedung Production Spk",
+      "bagian": "DISTR BBM SPK",
+      "id": "-NyT4Si3KFDgjSVN6SGt",
+      "jabatan": "Adm Distribution BBM",
+      "namaKontak": "YANTI PICAULI",
+      "noPekerja": "0",
+      "telpKantor": "4305",
+      "telpRumah": "4685"
+    },
+    "-NyT5ehClp-ud-7PWQs4": {
+      "alamat": "Kantor Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NyT5ehClp-ud-7PWQs4",
+      "jabatan": "-",
+      "namaKontak": "SITI NASIBAH",
+      "noPekerja": "0",
+      "telpKantor": "4325",
+      "telpRumah": "0"
+    },
+    "-NyT79vVJHtHImpVaBfc": {
+      "alamat": "Jl. Sedap Malam E.49",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NyT79vVJHtHImpVaBfc",
+      "jabatan": "Supervisor Preventive Maintenance",
+      "namaKontak": "RICO SATRIA",
+      "noPekerja": "746380",
+      "telpKantor": "4368",
+      "telpRumah": "4615"
+    },
+    "-NyT8VSzbBL4vYUlCEqp": {
+      "alamat": "JL. Flamboyan E. 22",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NyT8VSzbBL4vYUlCEqp",
+      "jabatan": "Jr. Engineer NRE & Civil",
+      "namaKontak": "RAZIMAN",
+      "noPekerja": "748259",
+      "telpKantor": "4327",
+      "telpRumah": "4596"
+    },
+    "-NyT9K_PwcWq0bffcQf7": {
+      "alamat": "Jl. Wijaya Kusuma B. 01",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyT9K_PwcWq0bffcQf7",
+      "jabatan": "Section Head Production",
+      "namaKontak": "AMDANI NASUTION",
+      "noPekerja": "0",
+      "telpKantor": "4210",
+      "telpRumah": "4410"
+    },
+    "-NyT9uzPtrCQPKgM11ES": {
+      "alamat": "Gedung Production Spk",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyT9uzPtrCQPKgM11ES",
+      "jabatan": "Adm Production Spk",
+      "namaKontak": "AGUSTINA",
+      "noPekerja": "0",
+      "telpKantor": "4310",
+      "telpRumah": "0"
+    },
+    "-Nyrak7UZiblKPh-f9b4": {
+      "alamat": "Jl. Anggrek BB. 03",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyrak7UZiblKPh-f9b4",
+      "jabatan": "SR SPV ITY",
+      "namaKontak": "JUNAIDI",
+      "noPekerja": "728299",
+      "telpKantor": "4212",
+      "telpRumah": "4622"
+    },
+    "-NyrbPqVnBw32EIaR1N7": {
+      "alamat": "C. 07",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrbPqVnBw32EIaR1N7",
+      "jabatan": "SHFT SPV LAB",
+      "namaKontak": "AMAN SOLEH RITONGA",
+      "noPekerja": "747228",
+      "telpKantor": "4219",
+      "telpRumah": "4539"
+    },
+    "-Nyrc39MPRhW42SlKODF": {
+      "alamat": "Jl. Sedap Malam E. 50",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyrc39MPRhW42SlKODF",
+      "jabatan": "PAELMAN I CDU",
+      "namaKontak": "RIYANTO",
+      "noPekerja": "745229",
+      "telpKantor": "4163",
+      "telpRumah": "4568"
+    },
+    "-NyrchngjyJzBRCCCIjQ": {
+      "alamat": "JL. Mangga D. 33",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrchngjyJzBRCCCIjQ",
+      "jabatan": "JR TESTER II LAB",
+      "namaKontak": "MARLAN ALBETHRUS MANURUNG",
+      "noPekerja": "751072",
+      "telpKantor": "4304",
+      "telpRumah": "4517"
+    },
+    "-NyrdIhSbZODUIJlJzq3": {
+      "alamat": "JL. Rambutan D. 44",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrdIhSbZODUIJlJzq3",
+      "jabatan": "JR OPRT II IPAL & SEPRATOR",
+      "namaKontak": "ZULFIKAR SYAH",
+      "noPekerja": "752212",
+      "telpKantor": "4255",
+      "telpRumah": "4503"
+    },
+    "-Nyrf0ZJQnutn4mKEJrF": {
+      "alamat": "JL. Kenanga E. 12",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyrf0ZJQnutn4mKEJrF",
+      "jabatan": "JR TESTER II LAB",
+      "namaKontak": "MUHAMMAD HARYADI",
+      "noPekerja": "753101",
+      "telpKantor": "4304",
+      "telpRumah": "0"
+    },
+    "-NyrfgTTEax34ClPOQ1t": {
+      "alamat": "JL. Wijaya Kusuma E. 10",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrfgTTEax34ClPOQ1t",
+      "jabatan": "JR OPR II JETTY",
+      "namaKontak": "MUHAMAD HENDRIK",
+      "noPekerja": "753085",
+      "telpKantor": "4304",
+      "telpRumah": "4556"
+    },
+    "-NyrgHwZwkFrObzLBo4c": {
+      "alamat": "JL. Kenanga E. 17",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrgHwZwkFrObzLBo4c",
+      "jabatan": "JR TESTER II LAB",
+      "namaKontak": "FAZRI AULIA RAMADHAN",
+      "noPekerja": "751237",
+      "telpKantor": "4304",
+      "telpRumah": "4657"
+    },
+    "-NyrgtjRrKHYaLoRNk9U": {
+      "alamat": "JL. Flamboyan E. 26",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrgtjRrKHYaLoRNk9U",
+      "jabatan": "PANELMAN III CDU",
+      "namaKontak": "SUBRATA",
+      "noPekerja": "747219",
+      "telpKantor": "4315",
+      "telpRumah": "4544"
+    },
+    "-NyrhT_Gyf4vOj0W-ROI": {
+      "alamat": "JL. Wijaya Kusuma E.01",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NyrhT_Gyf4vOj0W-ROI",
+      "jabatan": "Technician I NRE & Civil",
+      "namaKontak": "JAPRINAL",
+      "noPekerja": "746092",
+      "telpKantor": "4347",
+      "telpRumah": "4566"
+    },
+    "-Nyrsfu0gCaaOT32oTi2": {
+      "alamat": "JL. Wijaya Kusuma E. 51",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyrsfu0gCaaOT32oTi2",
+      "jabatan": "JR OPR II JETTY",
+      "namaKontak": "BOBBY DERMAWAN",
+      "noPekerja": "753119",
+      "telpKantor": "4304",
+      "telpRumah": "4655"
+    },
+    "-NyrtFvkIGgN2_UDuRqp": {
+      "alamat": "JL. Kenanga E.11",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrtFvkIGgN2_UDuRqp",
+      "jabatan": "OPR I HEATER & TOWER",
+      "namaKontak": "JANUARDI",
+      "noPekerja": "751078",
+      "telpKantor": "4315",
+      "telpRumah": "4526"
+    },
+    "-NyrtlyjvtFbZUgEhENV": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrtlyjvtFbZUgEhENV",
+      "jabatan": "JR OPR II TANK PUMP & AUX",
+      "namaKontak": "FACHREZA ARDIAN",
+      "noPekerja": "751230",
+      "telpKantor": "4302",
+      "telpRumah": "0"
+    },
+    "-NyruMc-7zx-gqD1E70G": {
+      "alamat": "JL. Wijaya Kusuma E. 06",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyruMc-7zx-gqD1E70G",
+      "jabatan": "OPR I HEATER & TOWER",
+      "namaKontak": "DARWINSYAH",
+      "noPekerja": "746111",
+      "telpKantor": "4315",
+      "telpRumah": "4635"
+    },
+    "-NyruteUmxCiQ8teLlyT": {
+      "alamat": "JL. Flamboyan E.33",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyruteUmxCiQ8teLlyT",
+      "jabatan": "JR OPR II PUMP & AUX",
+      "namaKontak": "M. IQBAL",
+      "noPekerja": "753093",
+      "telpKantor": "4315",
+      "telpRumah": "4528"
+    },
+    "-NyrvWbCXpxgcekZvopG": {
+      "alamat": "JL. Mangga D.40",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrvWbCXpxgcekZvopG",
+      "jabatan": "PANELMAN III CDU",
+      "namaKontak": "ADHE SYAPUTRA",
+      "noPekerja": "747221",
+      "telpKantor": "4315",
+      "telpRumah": "4478"
+    },
+    "-NyrwL6f2bXLNu5-BN-9": {
+      "alamat": "JL. Cemara A 01 A",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrwL6f2bXLNu5-BN-9",
+      "jabatan": "SHIF SPV PUMP H & JETTY",
+      "namaKontak": "M. ZULYADI",
+      "noPekerja": "746382",
+      "telpKantor": "4319",
+      "telpRumah": "4567"
+    },
+    "-Nyrw_7MhAgLbKi-Vb2q": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyrw_7MhAgLbKi-Vb2q",
+      "jabatan": "JR OPR II HEATER & TOWER",
+      "namaKontak": "IBNU SABILILLAH",
+      "noPekerja": "753102",
+      "telpKantor": "4315",
+      "telpRumah": "4631"
+    },
+    "-NyrxGkDdRXNgchQ_hep": {
+      "alamat": "Jl. Sedap Malam E. 48",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrxGkDdRXNgchQ_hep",
+      "jabatan": "JR OPR II PUMP & AUX",
+      "namaKontak": "RIAN FADILAH MUHAMMAD",
+      "noPekerja": "753080",
+      "telpKantor": "4315",
+      "telpRumah": "0"
+    },
+    "-NyrxWa6ejpdYDSuBVXl": {
+      "alamat": "JL. Tanjung C.07",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyrxWa6ejpdYDSuBVXl",
+      "jabatan": "SR SPV LABORATORY",
+      "namaKontak": "MUHARDARISON",
+      "noPekerja": "728403",
+      "telpKantor": "4215",
+      "telpRumah": "4651"
+    },
+    "-Nyxxmgm36z6yZDuFIGo": {
+      "alamat": "JL. Tanjung C. 10",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyxxmgm36z6yZDuFIGo",
+      "jabatan": "Shift Supervisor CDU",
+      "namaKontak": "BAIDARUS",
+      "noPekerja": "728282",
+      "telpKantor": "4313",
+      "telpRumah": "4653"
+    },
+    "-Nyxy5Bmukf3elTlS4C9": {
+      "alamat": "JL. Teratai R.08",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyxy5Bmukf3elTlS4C9",
+      "jabatan": "Supervisor Power & Distribution",
+      "namaKontak": "ANTONY SIHOMBING",
+      "noPekerja": "728363",
+      "telpKantor": "4344",
+      "telpRumah": "4623"
+    },
+    "-Nyxz00VxuwHAjgp1As4": {
+      "alamat": "Jl. Sedap Malam D.03",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyxz00VxuwHAjgp1As4",
+      "jabatan": "PANELMAN I METERING",
+      "namaKontak": "HERU PRATAMA",
+      "noPekerja": "747223",
+      "telpKantor": "4344",
+      "telpRumah": "4614"
+    },
+    "-NyxzGJLlrbnKUGAcTcq": {
+      "alamat": "Jl. Sedap Malam D.14",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyxzGJLlrbnKUGAcTcq",
+      "jabatan": "JR OPR II DIST & POWER",
+      "namaKontak": "ABEDNEGO SINAGA",
+      "noPekerja": "751079",
+      "telpKantor": "4344",
+      "telpRumah": "4527"
+    },
+    "-Nyy-7qLHcZRNzV5VvoG": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy-7qLHcZRNzV5VvoG",
+      "jabatan": "JR OPR II DIST & POWER",
+      "namaKontak": "FARIED THIOMALIKI",
+      "noPekerja": "751234",
+      "telpKantor": "4344",
+      "telpRumah": "4452"
+    },
+    "-Nyy-Nq2UuUKhd1xMvdR": {
+      "alamat": "JL. Melati D.19",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy-Nq2UuUKhd1xMvdR",
+      "jabatan": "SHIFT SPV LAB",
+      "namaKontak": "HENRY ANANDAR LT",
+      "noPekerja": "747043",
+      "telpKantor": "4344",
+      "telpRumah": "4637"
+    },
+    "-Nyy0HobGezk6b01kw96": {
+      "alamat": "JL. Mangga D.38",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy0HobGezk6b01kw96",
+      "jabatan": "SR OPR II WTP/WDCF/WIS",
+      "namaKontak": "PURWADI",
+      "noPekerja": "748257",
+      "telpKantor": "4344",
+      "telpRumah": "4524"
+    },
+    "-Nyy0YHFh46AXUr3TBDb": {
+      "alamat": "JL. Rambutan E. 32",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy0YHFh46AXUr3TBDb",
+      "jabatan": "JR OPR II DIST & POWER",
+      "namaKontak": "ABDUL AZIZ",
+      "noPekerja": "753109",
+      "telpKantor": "4344",
+      "telpRumah": "4582"
+    },
+    "-Nyy1O1bLyMV0Ibi9LsH": {
+      "alamat": "JL. Flamboyan E.",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy1O1bLyMV0Ibi9LsH",
+      "jabatan": "JR OPR II PUMP & AUX",
+      "namaKontak": "MUHAMMAD FAHMI EDWIN",
+      "noPekerja": "753088",
+      "telpKantor": "4344",
+      "telpRumah": "4456"
+    },
+    "-Nyy1jxAi5TLzBdtBGMs": {
+      "alamat": "Jl. Sedap Malam D.21",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy1jxAi5TLzBdtBGMs",
+      "jabatan": "SR OPR II WTP/WDCF/WIS",
+      "namaKontak": "SURYA DARMAWAN",
+      "noPekerja": "747045",
+      "telpKantor": "4344",
+      "telpRumah": "4639"
+    },
+    "-Nyy2lgxP6gO9SzE63Az": {
+      "alamat": "JL. Kenanga E.18",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy2lgxP6gO9SzE63Az",
+      "jabatan": "Panelman III Boiler & Aux",
+      "namaKontak": "MEIRYAN SOFFANO",
+      "noPekerja": "743267",
+      "telpKantor": "4311",
+      "telpRumah": "4588"
+    },
+    "-Nyy303sckIhwvpANK-D": {
+      "alamat": "C. 09",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy303sckIhwvpANK-D",
+      "jabatan": "Panelman III Boiler & Aux",
+      "namaKontak": "ADRIANSYAH",
+      "noPekerja": "743178",
+      "telpKantor": "4311",
+      "telpRumah": "4418"
+    },
+    "-Nyy4lYea_yvsy8b8YwK": {
+      "alamat": "JL. Flamboyan E. 27",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy4lYea_yvsy8b8YwK",
+      "jabatan": "JR OPR II WTP/WDCF/WIS",
+      "namaKontak": "ANDRI SUGIANA",
+      "noPekerja": "753071",
+      "telpKantor": "4193",
+      "telpRumah": "4453"
+    },
+    "-Nyy54uHeoqvVdnClhmL": {
+      "alamat": "JL. Flamboyan E.42",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy54uHeoqvVdnClhmL",
+      "jabatan": "PANELMAN I CDU",
+      "namaKontak": "HERRIYANTO ABDI SIREGAR",
+      "noPekerja": "745226",
+      "telpKantor": "4193",
+      "telpRumah": "4688"
+    },
+    "-Nyy6-OI-erTrWm3BnPb": {
+      "alamat": "Jl. Sedap Malam D.23",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy6-OI-erTrWm3BnPb",
+      "jabatan": "PANELMAN I BOILER & AUX",
+      "namaKontak": "ADRIAN GUSFERI",
+      "noPekerja": "745234",
+      "telpKantor": "4193",
+      "telpRumah": "4529"
+    },
+    "-Nyy6WG0f0l7-CfmBULk": {
+      "alamat": "JL. Mangga D. 35",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy6WG0f0l7-CfmBULk",
+      "jabatan": "JR OPR II DIST & POWER",
+      "namaKontak": "ABDUL GOFUR NASUTION",
+      "noPekerja": "751076",
+      "telpKantor": "0",
+      "telpRumah": "4516"
+    },
+    "-Nyy7cXof3aT3Mm9k5XZ": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy7cXof3aT3Mm9k5XZ",
+      "jabatan": "JR OPR II DIST & POWER",
+      "namaKontak": "ARYS MANDA ALPARISI",
+      "noPekerja": "751227",
+      "telpKantor": "4193",
+      "telpRumah": "4455"
+    },
+    "-Nyy7sNrjfUyjix3jmn3": {
+      "alamat": "JL. Flamboyan E. 25",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy7sNrjfUyjix3jmn3",
+      "jabatan": "JR OPR II PUMP & AUX",
+      "namaKontak": "SAMPE SUNARDI TAMPUL GANA HUTABARAT",
+      "noPekerja": "752205",
+      "telpKantor": "4196",
+      "telpRumah": "4531"
+    },
+    "-Nyy8k8yA0q2oPr80SxF": {
+      "alamat": "JL. Rambutan D. 37",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy8k8yA0q2oPr80SxF",
+      "jabatan": "PANELMAN II BOILER/AUX",
+      "namaKontak": "YANDI YULIA JAYA",
+      "noPekerja": "747232",
+      "telpKantor": "4193",
+      "telpRumah": "4454"
+    },
+    "-Nyy906hVJrIb1L76Wpb": {
+      "alamat": "JL. Kenanga E.16",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nyy906hVJrIb1L76Wpb",
+      "jabatan": "OPR II DIST & POWER",
+      "namaKontak": "RONNY PASULIMA",
+      "noPekerja": "746135",
+      "telpKantor": "4193",
+      "telpRumah": "4616"
+    },
+    "-NyyC-pqUK0XpqvC8Gop": {
+      "alamat": "JL. Flamboyan E. 35",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyC-pqUK0XpqvC8Gop",
+      "jabatan": "OPR II DIST & POWER",
+      "namaKontak": "RISSALDI ZAIN",
+      "noPekerja": "746130",
+      "telpKantor": "4344",
+      "telpRumah": "4565"
+    },
+    "-NyyCV6CU6MCXBfz50Ea": {
+      "alamat": "JL. Rambutan D. 42",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyCV6CU6MCXBfz50Ea",
+      "jabatan": "PANELMAN I METERING",
+      "namaKontak": "BENNY FERDIAN",
+      "noPekerja": "746130",
+      "telpKantor": "4216",
+      "telpRumah": "4677"
+    },
+    "-NyyDAgmuphovzb_w_j7": {
+      "alamat": "JL. Sedap Malam D. 11",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyDAgmuphovzb_w_j7",
+      "jabatan": "OPR I TANK PUMP & AUX",
+      "namaKontak": "DANIEL",
+      "noPekerja": "746103",
+      "telpKantor": "4216",
+      "telpRumah": "4636"
+    },
+    "-NyyDTdEGunrGrr9jR-k": {
+      "alamat": "JL. Melati D.20",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyDTdEGunrGrr9jR-k",
+      "jabatan": "OPR I TANK PUMP & AUX",
+      "namaKontak": "ANDI BUCHARI",
+      "noPekerja": "746122",
+      "telpKantor": "4216",
+      "telpRumah": "4518"
+    },
+    "-NyyEbmnPYOMDe_x8H-8": {
+      "alamat": "JL. Kenanga E.20",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyEbmnPYOMDe_x8H-8",
+      "jabatan": "OPR I TANK PUMP & AUX",
+      "namaKontak": "AHMAD FADLI",
+      "noPekerja": "747225",
+      "telpKantor": "4216",
+      "telpRumah": "4554"
+    },
+    "-NyyEsK9Eh2tETTW-Ftx": {
+      "alamat": "JL. Melati D.16",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyEsK9Eh2tETTW-Ftx",
+      "jabatan": "OPR II TANK PUMP & AUX",
+      "namaKontak": "BUDI TRIYANTO",
+      "noPekerja": "750286",
+      "telpKantor": "4216",
+      "telpRumah": "4513"
+    },
+    "-NyyFhinr_vuWS9kX1Iv": {
+      "alamat": "JL. Durian D.25",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyFhinr_vuWS9kX1Iv",
+      "jabatan": "Jr Operator I Tanki Pump & Aux",
+      "namaKontak": "FADLY AZMI",
+      "noPekerja": "751077",
+      "telpKantor": "4216",
+      "telpRumah": "4519"
+    },
+    "-NyyFv_-ayLlDpCAt0Xt": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyFv_-ayLlDpCAt0Xt",
+      "jabatan": "ANALISY I DISTRIBUTION BBM",
+      "namaKontak": "ADE WIBOWO",
+      "noPekerja": "747222",
+      "telpKantor": "4214",
+      "telpRumah": "4663"
+    },
+    "-NyyGd3Ln4-pLTMMfkDI": {
+      "alamat": "JL. Mangga D.41",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyGd3Ln4-pLTMMfkDI",
+      "jabatan": "PANELMAN I METERING",
+      "namaKontak": "SUKRI RAHMADHANI",
+      "noPekerja": "747218",
+      "telpKantor": "4216",
+      "telpRumah": "4677"
+    },
+    "-NyyGoeO1AGZ9ey4oL1e": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NyyGoeO1AGZ9ey4oL1e",
+      "jabatan": "JR OPR II TANK PUMP & AUX",
+      "namaKontak": "INSANULKAMIL",
+      "noPekerja": "751246",
+      "telpKantor": "4216",
+      "telpRumah": "0"
+    },
+    "-Nz10ArwnBUFcpKMm74i": {
+      "alamat": "Gedung MCR",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz10ArwnBUFcpKMm74i",
+      "jabatan": "-",
+      "namaKontak": "R. RAPAT MCR",
+      "noPekerja": "0",
+      "telpKantor": "4209",
+      "telpRumah": "0"
+    },
+    "-Nz10S_D_5Wmep0lBzxD": {
+      "alamat": "Gedung Laboratory",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz10S_D_5Wmep0lBzxD",
+      "jabatan": "Adm Laboratory",
+      "namaKontak": "SYAMSUL",
+      "noPekerja": "0",
+      "telpKantor": "4219",
+      "telpRumah": "0"
+    },
+    "-Nz10e654Gkqxie1RZR_": {
+      "alamat": "Gedung Production Spk",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz10e654Gkqxie1RZR_",
+      "jabatan": "Adm Utilities",
+      "namaKontak": "SEMFARI",
+      "noPekerja": "0",
+      "telpKantor": "4194",
+      "telpRumah": "0"
+    },
+    "-Nz10q24D1mJYD4xxeCE": {
+      "alamat": "Area Boiler",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz10q24D1mJYD4xxeCE",
+      "jabatan": "-",
+      "namaKontak": "BOILER",
+      "noPekerja": "0",
+      "telpKantor": "4306",
+      "telpRumah": "0"
+    },
+    "-Nz115QuEoQ_liUGqKFr": {
+      "alamat": "Gedung WTP",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz115QuEoQ_liUGqKFr",
+      "jabatan": "-",
+      "namaKontak": "R. SEDIMENTASI",
+      "noPekerja": "0",
+      "telpKantor": "4195",
+      "telpRumah": "0"
+    },
+    "-Nz11FhNc1mde3oTLwx8": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz11FhNc1mde3oTLwx8",
+      "jabatan": "-",
+      "namaKontak": "SUPPORTING",
+      "noPekerja": "0",
+      "telpKantor": "4317",
+      "telpRumah": "0"
+    },
+    "-Nz11WJpdscG9v7hxObB": {
+      "alamat": "AREA SAMPLE",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz11WJpdscG9v7hxObB",
+      "jabatan": "-",
+      "namaKontak": "AREA SAMPLE",
+      "noPekerja": "0",
+      "telpKantor": "4324",
+      "telpRumah": "0"
+    },
+    "-Nz11gClDwWk4MhXyIrb": {
+      "alamat": "JL. C AREA KILANG",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz11gClDwWk4MhXyIrb",
+      "jabatan": "-",
+      "namaKontak": "SEPERATOR",
+      "noPekerja": "0",
+      "telpKantor": "4229",
+      "telpRumah": "0"
+    },
+    "-Nz11vOtGfq5SH5mkv7Y": {
+      "alamat": "JL. B AREA KILANG",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz11vOtGfq5SH5mkv7Y",
+      "jabatan": "-",
+      "namaKontak": "FILLING SHEED BBM",
+      "noPekerja": "0",
+      "telpKantor": "4218",
+      "telpRumah": "0"
+    },
+    "-Nz126N5a5isLyZQ3lzT": {
+      "alamat": "AREA TANKI 05",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz126N5a5isLyZQ3lzT",
+      "jabatan": "-",
+      "namaKontak": "AREA TANKI 05",
+      "noPekerja": "0",
+      "telpKantor": "4303",
+      "telpRumah": "0"
+    },
+    "-Nz12sWIi0T_oPlRvr-S": {
+      "alamat": "AREA TANKI 12",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz12sWIi0T_oPlRvr-S",
+      "jabatan": "-",
+      "namaKontak": "AREA TANKI 12",
+      "noPekerja": "0",
+      "telpKantor": "4301",
+      "telpRumah": "0"
+    },
+    "-Nz139vC4Ch1cmnDz8AQ": {
+      "alamat": "AREA MARINE",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz139vC4Ch1cmnDz8AQ",
+      "jabatan": "-",
+      "namaKontak": "JETTY I",
+      "noPekerja": "0",
+      "telpKantor": "4302",
+      "telpRumah": "0"
+    },
+    "-Nz13pGxOv1GZpOBEWND": {
+      "alamat": "AREA MARINE",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz13pGxOv1GZpOBEWND",
+      "jabatan": "-",
+      "namaKontak": "JETTY I",
+      "noPekerja": "0",
+      "telpKantor": "4307",
+      "telpRumah": "0"
+    },
+    "-Nz13yw054uczx-Wo8hq": {
+      "alamat": "Jetty II",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz13yw054uczx-Wo8hq",
+      "jabatan": "-",
+      "namaKontak": "JETTY II",
+      "noPekerja": "0",
+      "telpKantor": "4309",
+      "telpRumah": "0"
+    },
+    "-Nz14BWS2tftISiC67p4": {
+      "alamat": "Gedung Production Spk",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz14BWS2tftISiC67p4",
+      "jabatan": "Adm IT&Y",
+      "namaKontak": "FAISAL",
+      "noPekerja": "0",
+      "telpKantor": "4318",
+      "telpRumah": "0"
+    },
+    "-Nz14UdMQ6AYyxqwOcdk": {
+      "alamat": "Jl. Nusa Indah B. 04",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz14UdMQ6AYyxqwOcdk",
+      "jabatan": "Section Head Maintenance",
+      "namaKontak": "ALFIAN NUR",
+      "noPekerja": "713783",
+      "telpKantor": "4240",
+      "telpRumah": "4440"
+    },
+    "-Nz14emxidAUOp3WIIZc": {
+      "alamat": "Gedung Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz14emxidAUOp3WIIZc",
+      "jabatan": "-",
+      "namaKontak": "R. RAPAT MAINTENANCE",
+      "noPekerja": "0",
+      "telpKantor": "4155",
+      "telpRumah": "0"
+    },
+    "-Nz14qSReJAAShyDtAxw": {
+      "alamat": "Gedung Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz14qSReJAAShyDtAxw",
+      "jabatan": "Adm Maintenance",
+      "namaKontak": "RAHMANIAR",
+      "noPekerja": "0",
+      "telpKantor": "4245",
+      "telpRumah": "0"
+    },
+    "-Nz154JAaqLXmaVcZU_U": {
+      "alamat": "Jl. Melati C. 05",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz154JAaqLXmaVcZU_U",
+      "jabatan": "Engineer I Rotating Equipment",
+      "namaKontak": "PRIHARTONO",
+      "noPekerja": "747229",
+      "telpKantor": "4350",
+      "telpRumah": "4448"
+    },
+    "-Nz15GTq2w7sH7laPFXD": {
+      "alamat": "JL. Melati D.22",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz15GTq2w7sH7laPFXD",
+      "jabatan": "Engineer I Electrical & Instrument",
+      "namaKontak": "STEFANUS BUDI SANTOSA",
+      "noPekerja": "747039",
+      "telpKantor": "4257",
+      "telpRumah": "4641"
+    },
+    "-Nz16RFKP2IymJ0VFq7c": {
+      "alamat": "JL. Rambutan D.",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz16RFKP2IymJ0VFq7c",
+      "jabatan": "Jr Techncian II Construction & Welding",
+      "namaKontak": "EDY SUSANTO",
+      "noPekerja": "752211",
+      "telpKantor": "4347",
+      "telpRumah": "0"
+    },
+    "-Nz16dnjRBHt-vyBtqn6": {
+      "alamat": "JL. MANGGA D. 34",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz16dnjRBHt-vyBtqn6",
+      "jabatan": "Jr Analyst II T/A & O/H",
+      "namaKontak": "MUHABIBIE NUR",
+      "noPekerja": "748254",
+      "telpKantor": "4247",
+      "telpRumah": "4558"
+    },
+    "-Nz16phACxeuKiZc6yti": {
+      "alamat": "JL. Mangga D.26",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz16phACxeuKiZc6yti",
+      "jabatan": "OFFICER I HSE COMPLICE",
+      "namaKontak": "ERI ISTIADI AMBARITA",
+      "noPekerja": "747639",
+      "telpKantor": "4396",
+      "telpRumah": "4546"
+    },
+    "-Nz1751ZafdK81SFkDjz": {
+      "alamat": "Gedung Mech & Civil",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz1751ZafdK81SFkDjz",
+      "jabatan": "Adm Technician Mechanical & Civil",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4187",
+      "telpRumah": "0"
+    },
+    "-Nz17Gf2_64MHGqY87Wm": {
+      "alamat": "JL. Mangga D.32",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz17Gf2_64MHGqY87Wm",
+      "jabatan": "Supervisor Electrical & Instrument",
+      "namaKontak": "RANDI",
+      "noPekerja": "748258",
+      "telpKantor": "4346",
+      "telpRumah": "4523"
+    },
+    "-Nz17_4NMO1f0Oly8MGa": {
+      "alamat": "JL. Mangga D.32",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz17_4NMO1f0Oly8MGa",
+      "jabatan": "Supervisor Electrical & Instrument",
+      "namaKontak": "RANDI",
+      "noPekerja": "748258",
+      "telpKantor": "4346",
+      "telpRumah": "4523"
+    },
+    "-Nz17tVY74aBiSaexcTb": {
+      "alamat": "JL. Wijaya Kusuma E.09",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz17tVY74aBiSaexcTb",
+      "jabatan": "Jr. Technician II Instrument",
+      "namaKontak": "AFRIZAL",
+      "noPekerja": "752691",
+      "telpKantor": "4346",
+      "telpRumah": "4545"
+    },
+    "-Nz184rDiwg-f1fEPmNw": {
+      "alamat": "Jl. Sedap Malam E. 46",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz184rDiwg-f1fEPmNw",
+      "jabatan": "Jr. Technician II RE",
+      "namaKontak": "JUNAIDI PARLAUNGAN GULTOM",
+      "noPekerja": "752688",
+      "telpKantor": "4187",
+      "telpRumah": "4522"
+    },
+    "-Nz18HlBEAM16klQpnQv": {
+      "alamat": "JL. Melati C. 04",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz18HlBEAM16klQpnQv",
+      "jabatan": "Supervisor Planning Routine",
+      "namaKontak": "CHAIRIL",
+      "noPekerja": "747633",
+      "telpKantor": "4237",
+      "telpRumah": "4449"
+    },
+    "-Nz18WJfN41O2DSLWvYW": {
+      "alamat": "Jl. Flamboyan E.34",
+      "bagian": "-",
+      "id": "-Nz18WJfN41O2DSLWvYW",
+      "jabatan": "Jr Technician II Workshop",
+      "namaKontak": "JUNAIDI TANJUNG",
+      "noPekerja": "747389",
+      "telpKantor": "4166",
+      "telpRumah": "4447"
+    },
+    "-Nz18lAi65RjDksbW21F": {
+      "alamat": "-",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz18lAi65RjDksbW21F",
+      "jabatan": "Technician I Office & Housing Facility",
+      "namaKontak": "ZYULFAN MS",
+      "noPekerja": "752707",
+      "telpKantor": "4342",
+      "telpRumah": "0"
+    },
+    "-Nz19E6uo7OdVZQ4qxFL": {
+      "alamat": "Gedung Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz19E6uo7OdVZQ4qxFL",
+      "jabatan": "-",
+      "namaKontak": "ARIYANTO",
+      "noPekerja": "0",
+      "telpKantor": "4242",
+      "telpRumah": "0"
+    },
+    "-Nz19JdvSantBBPZZxHe": {
+      "alamat": "Gedung Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz19JdvSantBBPZZxHe",
+      "jabatan": "-",
+      "namaKontak": "ARIYANTO",
+      "noPekerja": "0",
+      "telpKantor": "4242",
+      "telpRumah": "0"
+    },
+    "-Nz19LsonG7uko4qe53c": {
+      "alamat": "Gedung Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz19LsonG7uko4qe53c",
+      "jabatan": "-",
+      "namaKontak": "ARIYANTO",
+      "noPekerja": "0",
+      "telpKantor": "4242",
+      "telpRumah": "0"
+    },
+    "-Nz19MiRrKFdocPsEQ3A": {
+      "alamat": "Gedung Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz19MiRrKFdocPsEQ3A",
+      "jabatan": "-",
+      "namaKontak": "ARIYANTO",
+      "noPekerja": "0",
+      "telpKantor": "4242",
+      "telpRumah": "0"
+    },
+    "-Nz19aeSxHWu3Fp12UZc": {
+      "alamat": "Gedung Mech",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz19aeSxHWu3Fp12UZc",
+      "jabatan": "-",
+      "namaKontak": "CREW MECH UTILITIES",
+      "noPekerja": "0",
+      "telpKantor": "4166",
+      "telpRumah": "0"
+    },
+    "-Nz19keVbnpaxTNTbtGD": {
+      "alamat": "Gedung Civil",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz19keVbnpaxTNTbtGD",
+      "jabatan": "-",
+      "namaKontak": "CREW MECH CIVIL",
+      "noPekerja": "0",
+      "telpKantor": "4342",
+      "telpRumah": "0"
+    },
+    "-Nz19xCjXU4SM_uJYl0R": {
+      "alamat": "Gedung Workshop Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz19xCjXU4SM_uJYl0R",
+      "jabatan": "-",
+      "namaKontak": "CREW ALAT BERAT",
+      "noPekerja": "0",
+      "telpKantor": "4351",
+      "telpRumah": "0"
+    },
+    "-Nz1A5k5d-MTcmXMvEE8": {
+      "alamat": "Area Jetty",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz1A5k5d-MTcmXMvEE8",
+      "jabatan": "-",
+      "namaKontak": "TRAFO JETTY",
+      "noPekerja": "0",
+      "telpKantor": "4249",
+      "telpRumah": "0"
+    },
+    "-Nz1AFKuGsBnHFNFNK8F": {
+      "alamat": "Gedung Public Facility",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz1AFKuGsBnHFNFNK8F",
+      "jabatan": "-",
+      "namaKontak": "ADM PUBLIC FACILITY",
+      "noPekerja": "0",
+      "telpKantor": "4244",
+      "telpRumah": "0"
+    },
+    "-Nz1ARFz9S70DY8vWahT": {
+      "alamat": "Gedung Maintenance",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz1ARFz9S70DY8vWahT",
+      "jabatan": "Adm Planning",
+      "namaKontak": "LINDA",
+      "noPekerja": "0",
+      "telpKantor": "4251",
+      "telpRumah": "0"
+    },
+    "-Nz1AserpKtsclN44aNC": {
+      "alamat": "Jl. Nusa Indah B. 03",
+      "bagian": "-",
+      "id": "-Nz1AserpKtsclN44aNC",
+      "jabatan": "Section Head HSSE Sei Pakning",
+      "namaKontak": "HARIS",
+      "noPekerja": "0",
+      "telpKantor": "4333",
+      "telpRumah": "4444"
+    },
+    "-Nz1B10GUOb1nMrTPqHo": {
+      "alamat": "Gedung HSE",
+      "bagian": "HSSE SPK",
+      "id": "-Nz1B10GUOb1nMrTPqHo",
+      "jabatan": "Adm HSSE",
+      "namaKontak": "EZI",
+      "noPekerja": "0",
+      "telpKantor": "4321",
+      "telpRumah": "0"
+    },
+    "-Nz1BFVE9Ke5gyG8it9T": {
+      "alamat": "JL. Cemara A 02 A",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz1BFVE9Ke5gyG8it9T",
+      "jabatan": "743031",
+      "namaKontak": "ANDRI RIADI S",
+      "noPekerja": "743031",
+      "telpKantor": "4304",
+      "telpRumah": "4613"
+    },
+    "-Nz6-0uCKJEZ8RGnCQoU": {
+      "alamat": "JL. Flamboyan E. 29",
+      "bagian": "HSSE SPK",
+      "id": "-Nz6-0uCKJEZ8RGnCQoU",
+      "jabatan": "Sr Fireman I RU II - S Pakning",
+      "namaKontak": "M. SYAFII",
+      "noPekerja": "747643",
+      "telpKantor": "4322",
+      "telpRumah": "4424"
+    },
+    "-Nz6-JvGsXkwApAkzcJq": {
+      "alamat": "JL. Sedap Malam E.43",
+      "bagian": "HSSE SPK",
+      "id": "-Nz6-JvGsXkwApAkzcJq",
+      "jabatan": "Sr Fireman I RU II - S Pakning",
+      "namaKontak": "RIKI ADYA PUTRA",
+      "noPekerja": "747649",
+      "telpKantor": "4322",
+      "telpRumah": "4425"
+    },
+    "-Nz6-YRM967zJP_firWc": {
+      "alamat": "JL. Wijaya Kusuma E.07",
+      "bagian": "HSSE SPK",
+      "id": "-Nz6-YRM967zJP_firWc",
+      "jabatan": "Sr Fireman I RU II - S Pakning",
+      "namaKontak": "RIO MARTADINATA",
+      "noPekerja": "747651",
+      "telpKantor": "4322",
+      "telpRumah": "4423"
+    },
+    "-Nz6-q7B2lAu3p4Yg4vV": {
+      "alamat": "JL. Kenanga E.13",
+      "bagian": "HSSE SPK",
+      "id": "-Nz6-q7B2lAu3p4Yg4vV",
+      "jabatan": "-",
+      "namaKontak": "M.SYAHLAN DWI PUTRA .S",
+      "noPekerja": "753116",
+      "telpKantor": "4322",
+      "telpRumah": "4411"
+    },
+    "-Nz601F-xJ1XrSQcKVEH": {
+      "alamat": "Gedung HSE",
+      "bagian": "HSE SPK",
+      "id": "-Nz601F-xJ1XrSQcKVEH",
+      "jabatan": "-",
+      "namaKontak": "FIRE STATION",
+      "noPekerja": "0",
+      "telpKantor": "4322",
+      "telpRumah": "0"
+    },
+    "-Nz60EJwg8sUdI5mnaZ0": {
+      "alamat": "Gedung HSE",
+      "bagian": "HSE SPK",
+      "id": "-Nz60EJwg8sUdI5mnaZ0",
+      "jabatan": "-",
+      "namaKontak": "CLASS ROOM",
+      "noPekerja": "0",
+      "telpKantor": "4102",
+      "telpRumah": "0"
+    },
+    "-Nz60OxqG_khY473K7rJ": {
+      "alamat": "Area Jetty I",
+      "bagian": "HSSE SPK",
+      "id": "-Nz60OxqG_khY473K7rJ",
+      "jabatan": "-",
+      "namaKontak": "FIRE PUMP HOUSE",
+      "noPekerja": "0",
+      "telpKantor": "4223",
+      "telpRumah": "0"
+    },
+    "-Nz613rEGwDMokF_aohy": {
+      "alamat": "Gedung HSE",
+      "bagian": "HSE SPK",
+      "id": "-Nz613rEGwDMokF_aohy",
+      "jabatan": "-",
+      "namaKontak": "EMERGENCY FIRE ONLY",
+      "noPekerja": "0",
+      "telpKantor": "999",
+      "telpRumah": "0"
+    },
+    "-Nz61M8w25_GaVI26zj3": {
+      "alamat": "Jl. Melati C.01",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz61M8w25_GaVI26zj3",
+      "jabatan": "Section Head Procurement",
+      "namaKontak": "DEDI KURNIADI",
+      "noPekerja": "0",
+      "telpKantor": "4270",
+      "telpRumah": "4470"
+    },
+    "-Nz61YDV-OKCoewkUTmS": {
+      "alamat": "-",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz61YDV-OKCoewkUTmS",
+      "jabatan": "Adm Procurement",
+      "namaKontak": "MURNI",
+      "noPekerja": "0",
+      "telpKantor": "4281",
+      "telpRumah": "0"
+    },
+    "-Nz61smAgiNH2KXStWtd": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz61smAgiNH2KXStWtd",
+      "jabatan": "-",
+      "namaKontak": "R. RAPAT PROCUREMENT",
+      "noPekerja": "0",
+      "telpKantor": "4284",
+      "telpRumah": "0"
+    },
+    "-Nz62R6O-exKWYcos9sO": {
+      "alamat": "-",
+      "bagian": "-",
+      "id": "-Nz62R6O-exKWYcos9sO",
+      "jabatan": "-",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4380",
+      "telpRumah": "0"
+    },
+    "-Nz62dFm8UOD1V6_cpQD": {
+      "alamat": "JL. Kenanga E.19",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz62dFm8UOD1V6_cpQD",
+      "jabatan": "-",
+      "namaKontak": "GUNTUR",
+      "noPekerja": "0",
+      "telpKantor": "4380",
+      "telpRumah": "4583"
+    },
+    "-Nz62ryZXv1A7Lao9N4D": {
+      "alamat": "Jl. Flamboyan E.37",
+      "bagian": "GA SPK",
+      "id": "-Nz62ryZXv1A7Lao9N4D",
+      "jabatan": "Sr Supervisor GA",
+      "namaKontak": "ERNA IMELDA",
+      "noPekerja": "719397",
+      "telpKantor": "4286",
+      "telpRumah": "4601"
+    },
+    "-Nz634jqgAB0qrpWm90-": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz634jqgAB0qrpWm90-",
+      "jabatan": "-",
+      "namaKontak": "SAFRUDDIN",
+      "noPekerja": "0",
+      "telpKantor": "4285",
+      "telpRumah": "0"
+    },
+    "-Nz63EGWXg90jfoVTM5a": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz63EGWXg90jfoVTM5a",
+      "jabatan": "Jr Assistant Inv & Transportation",
+      "namaKontak": "Tidak Ada Nama Kontak ",
+      "noPekerja": "0",
+      "telpKantor": "4382",
+      "telpRumah": "0"
+    },
+    "-Nz63UgeiUDxLj3yB73C": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz63UgeiUDxLj3yB73C",
+      "jabatan": "Jr Assistant Receiving",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4202",
+      "telpRumah": "0"
+    },
+    "-Nz63dyK152SbbGkqbVh": {
+      "alamat": "Gedung Poll Angkutan",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz63dyK152SbbGkqbVh",
+      "jabatan": "Adm Angkutan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4383",
+      "telpRumah": "0"
+    },
+    "-Nz63rmihzyKDqtk9h47": {
+      "alamat": "Gedung Poll Angkutan",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz63rmihzyKDqtk9h47",
+      "jabatan": "Crew Poll Angkutan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4388",
+      "telpRumah": "0"
+    },
+    "-Nz64JmgzcsUUT1xROJx": {
+      "alamat": "gedung Pengisian BBM",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz64JmgzcsUUT1xROJx",
+      "jabatan": "Pengisian BBM",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4385",
+      "telpRumah": "0"
+    },
+    "-Nz64l_hUY1hCtVJ59_A": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz64l_hUY1hCtVJ59_A",
+      "jabatan": "Stationary",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4129",
+      "telpRumah": "0"
+    },
+    "-Nz64qgS4WNN9G2ktzVN": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz64qgS4WNN9G2ktzVN",
+      "jabatan": "Stationary",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4129",
+      "telpRumah": "0"
+    },
+    "-Nz65IQUwCKIiu8b2BV8": {
+      "alamat": "Gedung Induk",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz65IQUwCKIiu8b2BV8",
+      "jabatan": "Fotocopy",
+      "namaKontak": "RUDI",
+      "noPekerja": "0",
+      "telpKantor": "4228",
+      "telpRumah": "0"
+    },
+    "-Nz66DRGc1-syi9tok_H": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz66DRGc1-syi9tok_H",
+      "jabatan": "Fotocopy",
+      "namaKontak": "SULAIMAN",
+      "noPekerja": "0",
+      "telpKantor": "4283",
+      "telpRumah": "0"
+    },
+    "-Nz66P-In_qk5WLsEzb9": {
+      "alamat": "Gedung Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz66P-In_qk5WLsEzb9",
+      "jabatan": "RTK / RTP",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4239",
+      "telpRumah": "0"
+    },
+    "-Nz66ZdwY2sDSBvlKiZe": {
+      "alamat": "Gedung Gudang Procurement",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-Nz66ZdwY2sDSBvlKiZe",
+      "jabatan": "Gudang Yard",
+      "namaKontak": "Tidak Ada Nama Kontak ",
+      "noPekerja": "0",
+      "telpKantor": "4384",
+      "telpRumah": "0"
+    },
+    "-Nz673_fPgW67-MMopCZ": {
+      "alamat": "JL. Melati C.02",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz673_fPgW67-MMopCZ",
+      "jabatan": "SHIFT SPV CDU",
+      "namaKontak": "KARYA NOVEN",
+      "noPekerja": "728111",
+      "telpKantor": "4319",
+      "telpRumah": "4652"
+    },
+    "-Nz67NJPoTB2BS-PN1E6": {
+      "alamat": "JL. Anggrek R.05",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz67NJPoTB2BS-PN1E6",
+      "jabatan": "LOAD MASTER II SPK",
+      "namaKontak": "M. ARIF EDWARD",
+      "noPekerja": "743161",
+      "telpKantor": "4314",
+      "telpRumah": "4498"
+    },
+    "-Nz67e6eJwS3MeGM_pUh": {
+      "alamat": "JL. Rambutan D. 48",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz67e6eJwS3MeGM_pUh",
+      "jabatan": "JR OPR II JETTY",
+      "namaKontak": "ADE GUSNADI",
+      "noPekerja": "753076",
+      "telpKantor": "4302",
+      "telpRumah": "4457"
+    },
+    "-Nz67tXqjR8qS_al0v5u": {
+      "alamat": "JL. Rambutan D.45",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz67tXqjR8qS_al0v5u",
+      "jabatan": "JR OPR II TANK PUMP & AUX",
+      "namaKontak": "HARI MARDIANTO",
+      "noPekerja": "752198",
+      "telpKantor": "4302",
+      "telpRumah": "4556"
+    },
+    "-Nz687Yj89iCqPBvVonm": {
+      "alamat": "Jl. Flamboyan E.37",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz687Yj89iCqPBvVonm",
+      "jabatan": "JR OPR II TANK PUMP & AUX",
+      "namaKontak": "SAAD",
+      "noPekerja": "752690",
+      "telpKantor": "4302",
+      "telpRumah": "4617"
+    },
+    "-Nz68jNgF3xbibcSK9xE": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz68jNgF3xbibcSK9xE",
+      "jabatan": "JR OPR II TANK PUMP & AUX",
+      "namaKontak": "SUYADI",
+      "noPekerja": "752701",
+      "telpKantor": "4302",
+      "telpRumah": "0"
+    },
+    "-Nz68wQMMUwkDG1k_Frn": {
+      "alamat": "Gedung Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz68wQMMUwkDG1k_Frn",
+      "jabatan": "Adm Jr Assistant Administration",
+      "namaKontak": "IDA",
+      "noPekerja": "0",
+      "telpKantor": "4224",
+      "telpRumah": "0"
+    },
+    "-Nz6997yXOSMJ35NzUBz": {
+      "alamat": "Gedung Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz6997yXOSMJ35NzUBz",
+      "jabatan": "Adm Jr Assistant Administration",
+      "namaKontak": "YANTI",
+      "noPekerja": "0",
+      "telpKantor": "4233",
+      "telpRumah": "0"
+    },
+    "-Nz69IuTUG8l9CQYzkfn": {
+      "alamat": "Gedung Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz69IuTUG8l9CQYzkfn",
+      "jabatan": "-",
+      "namaKontak": "AMRIL NORMAN",
+      "noPekerja": "0",
+      "telpKantor": "4235",
+      "telpRumah": "0"
+    },
+    "-Nz69WPXm1LQTQhcNH3Q": {
+      "alamat": "JL. Cemara A01B",
+      "bagian": "GA SPK",
+      "id": "-Nz69WPXm1LQTQhcNH3Q",
+      "jabatan": "Jr Assistant Management Support",
+      "namaKontak": "RAHMAD HIDAYAT",
+      "noPekerja": "746139",
+      "telpKantor": "4295",
+      "telpRumah": "4569"
+    },
+    "-Nz69jkWNTMOqYV0ITig": {
+      "alamat": "Gedung Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz69jkWNTMOqYV0ITig",
+      "jabatan": "Adm CSR",
+      "namaKontak": "NAZRAH",
+      "noPekerja": "0",
+      "telpKantor": "4296",
+      "telpRumah": "0"
+    },
+    "-Nz69vQkU0C2EquIOvsq": {
+      "alamat": "Gedung Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz69vQkU0C2EquIOvsq",
+      "jabatan": "Dokumentasi CSR",
+      "namaKontak": "KHAIRUL FADILLAH",
+      "noPekerja": "0",
+      "telpKantor": "4297",
+      "telpRumah": "0"
+    },
+    "-Nz6A7-6iy80QeiWukS5": {
+      "alamat": "Gedung Induk",
+      "bagian": "HSE SPK",
+      "id": "-Nz6A7-6iy80QeiWukS5",
+      "jabatan": "Adm Security",
+      "namaKontak": "MULYADI",
+      "noPekerja": "0",
+      "telpKantor": "4293",
+      "telpRumah": "0"
+    },
+    "-Nz6AWbndlRtA5ithvGS": {
+      "alamat": "Posko Kilang",
+      "bagian": "GA SPK",
+      "id": "-Nz6AWbndlRtA5ithvGS",
+      "jabatan": "Jr Assistant Phy & NonPhy &Permit Sec.",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4291",
+      "telpRumah": "0"
+    },
+    "-Nz6AfwpSy1NAM3TRxkw": {
+      "alamat": "Posko Kilang",
+      "bagian": "GA SPK",
+      "id": "-Nz6AfwpSy1NAM3TRxkw",
+      "jabatan": "Jr Assistant Phy & NonPhy &Permit Sec.",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4291",
+      "telpRumah": "0"
+    },
+    "-Nz6AkGfKbC5jkProPsG": {
+      "alamat": "Posko Kilang",
+      "bagian": "GA SPK",
+      "id": "-Nz6AkGfKbC5jkProPsG",
+      "jabatan": "Jr Assistant Phy & NonPhy &Permit Sec.",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4291",
+      "telpRumah": "0"
+    },
+    "-Nz6Aw_lReBwHuedekEf": {
+      "alamat": "Gedung Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz6Aw_lReBwHuedekEf",
+      "jabatan": "Group Head Physical Security",
+      "namaKontak": "M. NASIR",
+      "noPekerja": "0",
+      "telpKantor": "4292",
+      "telpRumah": "0"
+    },
+    "-Nz6Byr5y0bwFOtZ-nZD": {
+      "alamat": "Gedung Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz6Byr5y0bwFOtZ-nZD",
+      "jabatan": "Sandi",
+      "namaKontak": "FADLI",
+      "noPekerja": "0",
+      "telpKantor": "4299",
+      "telpRumah": "0"
+    },
+    "-Nz6CABooBKj-S7SrnDc": {
+      "alamat": "JL. Mawar FC.18",
+      "bagian": "GA SPK",
+      "id": "-Nz6CABooBKj-S7SrnDc",
+      "jabatan": "Pendamping Head Refinery Sector",
+      "namaKontak": "ARI YAHYA",
+      "noPekerja": "0",
+      "telpKantor": "4143",
+      "telpRumah": "4496"
+    },
+    "-Nz6CMODNR3dGcZTA-Bf": {
+      "alamat": "JL. Teratai TH.04",
+      "bagian": "GA SPK",
+      "id": "-Nz6CMODNR3dGcZTA-Bf",
+      "jabatan": "Pendamping Head Refinery Sector",
+      "namaKontak": "FIRDAUS",
+      "noPekerja": "0",
+      "telpKantor": "4143",
+      "telpRumah": "4495"
+    },
+    "-Nz6C_YXOlRm8aJdFNh-": {
+      "alamat": "JL. Mangga CO.06",
+      "bagian": "GA SPK",
+      "id": "-Nz6C_YXOlRm8aJdFNh-",
+      "jabatan": "Pendamping Head Refinery Sector",
+      "namaKontak": "M.B. HIDAYAT",
+      "noPekerja": "0",
+      "telpKantor": "4140",
+      "telpRumah": "4493"
+    },
+    "-Nz6CjPkHXNzmNCUNYwP": {
+      "alamat": "Posko Kilang",
+      "bagian": "GA SPK",
+      "id": "-Nz6CjPkHXNzmNCUNYwP",
+      "jabatan": "-",
+      "namaKontak": "POSKO KILANG",
+      "noPekerja": "0",
+      "telpKantor": "4140",
+      "telpRumah": "0"
+    },
+    "-Nz6CtSzq_w0k1bm1Ocb": {
+      "alamat": "Area Marine",
+      "bagian": "GA SPK",
+      "id": "-Nz6CtSzq_w0k1bm1Ocb",
+      "jabatan": "-",
+      "namaKontak": "POS I",
+      "noPekerja": "0",
+      "telpKantor": "4141",
+      "telpRumah": "0"
+    },
+    "-Nz6DClfxsRh-WCh2xmT": {
+      "alamat": "Area Bambu Kuning",
+      "bagian": "GA SPK",
+      "id": "-Nz6DClfxsRh-WCh2xmT",
+      "jabatan": "-",
+      "namaKontak": "POS II",
+      "noPekerja": "0",
+      "telpKantor": "4142",
+      "telpRumah": "0"
+    },
+    "-Nz6DMe5gmKQr5PbYWaG": {
+      "alamat": "Area Pintu Masuk Perumahan",
+      "bagian": "GA SPK",
+      "id": "-Nz6DMe5gmKQr5PbYWaG",
+      "jabatan": "-",
+      "namaKontak": "POS III",
+      "noPekerja": "0",
+      "telpKantor": "4143",
+      "telpRumah": "0"
+    },
+    "-Nz6DVdCn8Aj76USe7Qq": {
+      "alamat": "Area Airport",
+      "bagian": "GA SPK",
+      "id": "-Nz6DVdCn8Aj76USe7Qq",
+      "jabatan": "-",
+      "namaKontak": "POS IV",
+      "noPekerja": "0",
+      "telpKantor": "4144",
+      "telpRumah": "0"
+    },
+    "-Nz6DfCY2o1FZm2lfg2Y": {
+      "alamat": "JL. C Area Kilang",
+      "bagian": "GA SPK",
+      "id": "-Nz6DfCY2o1FZm2lfg2Y",
+      "jabatan": "-",
+      "namaKontak": "POS V",
+      "noPekerja": "0",
+      "telpKantor": "4145",
+      "telpRumah": "0"
+    },
+    "-Nz6EKX3l9fJTtZcQXOR": {
+      "alamat": "Area Kantor Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz6EKX3l9fJTtZcQXOR",
+      "jabatan": "-",
+      "namaKontak": "POS VI",
+      "noPekerja": "0",
+      "telpKantor": "4146",
+      "telpRumah": "0"
+    },
+    "-Nz6ESmEhvLDC340AIW4": {
+      "alamat": "RDP B.01",
+      "bagian": "0",
+      "id": "-Nz6ESmEhvLDC340AIW4",
+      "jabatan": "-",
+      "namaKontak": "POS VII",
+      "noPekerja": "0",
+      "telpKantor": "4147",
+      "telpRumah": "0"
+    },
+    "-Nz6Eb_2yz_aO8p1scEn": {
+      "alamat": "Area Marine",
+      "bagian": "GA SPK",
+      "id": "-Nz6Eb_2yz_aO8p1scEn",
+      "jabatan": "-",
+      "namaKontak": "POS BANTU JL. B",
+      "noPekerja": "0",
+      "telpKantor": "4151",
+      "telpRumah": "0"
+    },
+    "-Nz6Ek7fi6aI-po7ZxuZ": {
+      "alamat": "Area BULOPA",
+      "bagian": "GA SPK",
+      "id": "-Nz6Ek7fi6aI-po7ZxuZ",
+      "jabatan": "-",
+      "namaKontak": "POS PKD",
+      "noPekerja": "0",
+      "telpKantor": "4152",
+      "telpRumah": "0"
+    },
+    "-Nz6EwORkVPTMMY6DZ4I": {
+      "alamat": "JL. Ketapang",
+      "bagian": "GA SPK",
+      "id": "-Nz6EwORkVPTMMY6DZ4I",
+      "jabatan": "-",
+      "namaKontak": "POS YS",
+      "noPekerja": "0",
+      "telpKantor": "4153",
+      "telpRumah": "0"
+    },
+    "-Nz6F6oiu-jIN0b3P83_": {
+      "alamat": "JL. Tanjung R.12",
+      "bagian": "-",
+      "id": "-Nz6F6oiu-jIN0b3P83_",
+      "jabatan": "Marine Sungai Pakning",
+      "namaKontak": "LEONARDO BENJAMIN",
+      "noPekerja": "0",
+      "telpKantor": "4271",
+      "telpRumah": "4471"
+    },
+    "-Nz6FEvalYSaRF_aUvDc": {
+      "alamat": "Gedung Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz6FEvalYSaRF_aUvDc",
+      "jabatan": "-",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4277",
+      "telpRumah": "0"
+    },
+    "-Nz6FOGVb52cJpp63hO9": {
+      "alamat": "Gedung Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz6FOGVb52cJpp63hO9",
+      "jabatan": "Shift Shipping Agency",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4275",
+      "telpRumah": "0"
+    },
+    "-Nz6FYX1xIwZLsJhxx9B": {
+      "alamat": "Gedung Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz6FYX1xIwZLsJhxx9B",
+      "jabatan": "Shift Shipping Agency",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4274",
+      "telpRumah": "0"
+    },
+    "-Nz6Fj4ccwC12CqMULMg": {
+      "alamat": "Gedung Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz6Fj4ccwC12CqMULMg",
+      "jabatan": "Adm Operation Marine",
+      "namaKontak": "SITI AISAH",
+      "noPekerja": "0",
+      "telpKantor": "4273",
+      "telpRumah": "0"
+    },
+    "-Nz6G3dUPcJefboCq9xc": {
+      "alamat": "Gedung Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz6G3dUPcJefboCq9xc",
+      "jabatan": "Adm Port Facility",
+      "namaKontak": "CINDY",
+      "noPekerja": "0",
+      "telpKantor": "4364",
+      "telpRumah": "0"
+    },
+    "-Nz6GBSRhkzi-8YGxLxh": {
+      "alamat": "Area Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz6GBSRhkzi-8YGxLxh",
+      "jabatan": "-",
+      "namaKontak": "HOUSE BOAT",
+      "noPekerja": "0",
+      "telpKantor": "4376",
+      "telpRumah": "0"
+    },
+    "-Nz6GLM-JzYC6Nf1Rkcp": {
+      "alamat": "Area Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz6GLM-JzYC6Nf1Rkcp",
+      "jabatan": "-",
+      "namaKontak": "GUDANG PTM / LLP",
+      "noPekerja": "0",
+      "telpKantor": "4378",
+      "telpRumah": "0"
+    },
+    "-Nz6GUX8GIWKO8y9G1vo": {
+      "alamat": "KANTOR INDUK",
+      "bagian": "FINANCE SPK",
+      "id": "-Nz6GUX8GIWKO8y9G1vo",
+      "jabatan": "-",
+      "namaKontak": "Tidak Ada Nama Kontak ",
+      "noPekerja": "0",
+      "telpKantor": "4260",
+      "telpRumah": "0"
+    },
+    "-Nz6GdQWXVyKMLwMwE3-": {
+      "alamat": "Gedung Induk",
+      "bagian": "FINANCE SPK",
+      "id": "-Nz6GdQWXVyKMLwMwE3-",
+      "jabatan": "Adm Finance Spk",
+      "namaKontak": "JALENA",
+      "noPekerja": "0",
+      "telpKantor": "4362",
+      "telpRumah": "0"
+    },
+    "-Nz6Gm01r_LaOA8viiZR": {
+      "alamat": "Gedung Induk",
+      "bagian": "FINANCE SPK",
+      "id": "-Nz6Gm01r_LaOA8viiZR",
+      "jabatan": "-",
+      "namaKontak": "ZARNETTY",
+      "noPekerja": "0",
+      "telpKantor": "4265",
+      "telpRumah": "0"
+    },
+    "-Nz6HEUxdJ4xoRpnML-d": {
+      "alamat": "Area Marine",
+      "bagian": "FINANCE SPK",
+      "id": "-Nz6HEUxdJ4xoRpnML-d",
+      "jabatan": "Shipping On Call",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4366",
+      "telpRumah": "0"
+    },
+    "-Nz6HKychei54VpbPYHP": {
+      "alamat": "-",
+      "bagian": "-",
+      "id": "-Nz6HKychei54VpbPYHP",
+      "jabatan": "0",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4112",
+      "telpRumah": "0"
+    },
+    "-Nz6HVTLvQcw633YJU_x": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6HVTLvQcw633YJU_x",
+      "jabatan": "-",
+      "namaKontak": "HERDIANSYAH H",
+      "noPekerja": "0",
+      "telpKantor": "4110",
+      "telpRumah": "0"
+    },
+    "-Nz6Hg0NvLQ0aBC7L7aw": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6Hg0NvLQ0aBC7L7aw",
+      "jabatan": "Adm BP & RB Spk",
+      "namaKontak": "DARUSSAMIN",
+      "noPekerja": "0",
+      "telpKantor": "4125",
+      "telpRumah": "0"
+    },
+    "-Nz6I-huoTHmSBIw2jew": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6I-huoTHmSBIw2jew",
+      "jabatan": "-",
+      "namaKontak": "EMERGENCY",
+      "noPekerja": "0",
+      "telpKantor": "4111",
+      "telpRumah": "0"
+    },
+    "-Nz6I45I1GPFW0m2SSSI": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6I45I1GPFW0m2SSSI",
+      "jabatan": "-",
+      "namaKontak": "EMERGENCY",
+      "noPekerja": "0",
+      "telpKantor": "4111",
+      "telpRumah": "0"
+    },
+    "-Nz6IFZibOz0uBh7s7UX": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6IFZibOz0uBh7s7UX",
+      "jabatan": "-",
+      "namaKontak": "EMERGENCY",
+      "noPekerja": "0",
+      "telpKantor": "4122",
+      "telpRumah": "0"
+    },
+    "-Nz6IQbRndcFxiNQRbGG": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6IQbRndcFxiNQRbGG",
+      "jabatan": "Pendaftaran",
+      "namaKontak": "PENDAFTARAN KLINIK",
+      "noPekerja": "0",
+      "telpKantor": "4123",
+      "telpRumah": "0"
+    },
+    "-Nz6I_b2CHV-1rvE1XqX": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6I_b2CHV-1rvE1XqX",
+      "jabatan": "Poli Umum",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4205",
+      "telpRumah": "0"
+    },
+    "-Nz6ImqbTjfTURx_eu2g": {
+      "alamat": "Jl. Teratai R.02",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz6ImqbTjfTURx_eu2g",
+      "jabatan": "Sr. Supervisor Planning",
+      "namaKontak": "JUNIANTO",
+      "noPekerja": "728388",
+      "telpKantor": "4345",
+      "telpRumah": "4675"
+    },
+    "-Nz6J1eLMo2KCUVLEtor": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6J1eLMo2KCUVLEtor",
+      "jabatan": "UJI Kes",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4124",
+      "telpRumah": "0"
+    },
+    "-Nz6J9u45w-j2ccIRdM2": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6J9u45w-j2ccIRdM2",
+      "jabatan": "Labor",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4126",
+      "telpRumah": "0"
+    },
+    "-Nz6JIx9mqyXJCEY4ru-": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6JIx9mqyXJCEY4ru-",
+      "jabatan": "Apotik",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4115",
+      "telpRumah": "0"
+    },
+    "-Nz6JSlS-TJDm6JJhT1l": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6JSlS-TJDm6JJhT1l",
+      "jabatan": "-",
+      "namaKontak": "R. Radiologi",
+      "noPekerja": "0",
+      "telpKantor": "4128",
+      "telpRumah": "0"
+    },
+    "-Nz6Jbg3iQwkCMxSsA40": {
+      "alamat": "JL. Mangga CO.03",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6Jbg3iQwkCMxSsA40",
+      "jabatan": "-",
+      "namaKontak": "MESS PUTRA",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4436"
+    },
+    "-Nz6K36PIjIzGXD6WeOX": {
+      "alamat": "JL. Mangga CO.02",
+      "bagian": "BP & RB",
+      "id": "-Nz6K36PIjIzGXD6WeOX",
+      "jabatan": "-",
+      "namaKontak": "MESS PUTRI",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4564"
+    },
+    "-Nz6KdjFlpjQRZGHIrP6": {
+      "alamat": "JL. Mangga CO.02",
+      "bagian": "BP & RB",
+      "id": "-Nz6KdjFlpjQRZGHIrP6",
+      "jabatan": "-",
+      "namaKontak": "MESS PUTRI",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4564"
+    },
+    "-Nz6KoJKhhbQ4u4AwEvJ": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6KoJKhhbQ4u4AwEvJ",
+      "jabatan": "-",
+      "namaKontak": "R. PERAWATAN Bougenvile",
+      "noPekerja": "0",
+      "telpKantor": "4208",
+      "telpRumah": "0"
+    },
+    "-Nz6NiEfBgyHSbDpxqMb": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6NiEfBgyHSbDpxqMb",
+      "jabatan": "-",
+      "namaKontak": "R. PERAWATAN Edelwies",
+      "noPekerja": "0",
+      "telpKantor": "4113",
+      "telpRumah": "0"
+    },
+    "-Nz6NrUGkTfT_hh9r_Rb": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6NrUGkTfT_hh9r_Rb",
+      "jabatan": "-",
+      "namaKontak": "R. PERAWATAN Anggrek",
+      "noPekerja": "0",
+      "telpKantor": "4120",
+      "telpRumah": "0"
+    },
+    "-Nz6O1VA2Blf12406iMa": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6O1VA2Blf12406iMa",
+      "jabatan": "-",
+      "namaKontak": "R. PERAWATAN Flamboyan",
+      "noPekerja": "0",
+      "telpKantor": "4117",
+      "telpRumah": "0"
+    },
+    "-Nz6OA_yZPqeM7K8xLRB": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6OA_yZPqeM7K8xLRB",
+      "jabatan": "-",
+      "namaKontak": "R. PERAWATAN Dahlia",
+      "noPekerja": "0",
+      "telpKantor": "4118",
+      "telpRumah": "0"
+    },
+    "-Nz6OL62SZrBMvGlOq6Y": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6OL62SZrBMvGlOq6Y",
+      "jabatan": "-",
+      "namaKontak": "R. PERAWATAN Mawar",
+      "noPekerja": "0",
+      "telpKantor": "4114",
+      "telpRumah": "0"
+    },
+    "-Nz6OWwTuyTyfuueM7ke": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6OWwTuyTyfuueM7ke",
+      "jabatan": "-",
+      "namaKontak": "R. ISOLASI",
+      "noPekerja": "0",
+      "telpKantor": "4116",
+      "telpRumah": "0"
+    },
+    "-Nz6OjD5BEaxd4bbIu5o": {
+      "alamat": "Gedung Klinik Pratama",
+      "bagian": "KLINIK PRATAMA",
+      "id": "-Nz6OjD5BEaxd4bbIu5o",
+      "jabatan": "-",
+      "namaKontak": "DAPUR / FITNES",
+      "noPekerja": "0",
+      "telpKantor": "4206",
+      "telpRumah": "0"
+    },
+    "-Nz6OpH7OScGJ29KZbTL": {
+      "alamat": "-",
+      "bagian": "I.T SPK",
+      "id": "-Nz6OpH7OScGJ29KZbTL",
+      "jabatan": "-",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4372",
+      "telpRumah": "0"
+    },
+    "-Nz6PMyGUlOiuU5v5q9w": {
+      "alamat": "Gedung I.T",
+      "bagian": "I.T SPK",
+      "id": "-Nz6PMyGUlOiuU5v5q9w",
+      "jabatan": "Adm I.T",
+      "namaKontak": "SHOPIA",
+      "noPekerja": "0",
+      "telpKantor": "4371",
+      "telpRumah": "0"
+    },
+    "-Nz6PcPLFzEB6RYV0Fzj": {
+      "alamat": "Gedung I.T",
+      "bagian": "I.T SPK",
+      "id": "-Nz6PcPLFzEB6RYV0Fzj",
+      "jabatan": "PABX Sei Pakning",
+      "namaKontak": "MUHAMMAD YUNUS",
+      "noPekerja": "0",
+      "telpKantor": "4100",
+      "telpRumah": "0"
+    },
+    "-Nz6PnOVxHykT9tR1nwu": {
+      "alamat": "Gedung I.T",
+      "bagian": "I.T SPK",
+      "id": "-Nz6PnOVxHykT9tR1nwu",
+      "jabatan": "Lap. Gangguan CCTV",
+      "namaKontak": "M. HARSEN SATRIA",
+      "noPekerja": "0",
+      "telpKantor": "4373",
+      "telpRumah": "0"
+    },
+    "-Nz6Qcp4ExcB3Mkf25aL": {
+      "alamat": "Gedung I.T",
+      "bagian": "I.T SPK",
+      "id": "-Nz6Qcp4ExcB3Mkf25aL",
+      "jabatan": "Operator Telp/Fac I.T",
+      "namaKontak": "SHIFT IT",
+      "noPekerja": "0",
+      "telpKantor": "4600",
+      "telpRumah": "0"
+    },
+    "-Nz6QkTofzne0otn1cFU": {
+      "alamat": "Gedung Produksi",
+      "bagian": "-",
+      "id": "-Nz6QkTofzne0otn1cFU",
+      "jabatan": "-",
+      "namaKontak": "UPMS LAMA",
+      "noPekerja": "0",
+      "telpKantor": "4150",
+      "telpRumah": "0"
+    },
+    "-Nz6TVnJVP5w31qakl19": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz6TVnJVP5w31qakl19",
+      "jabatan": "-",
+      "namaKontak": "RECEPTIONIST WISMA",
+      "noPekerja": "0",
+      "telpKantor": "4331",
+      "telpRumah": "0"
+    },
+    "-Nz6TcfiWaIql9DoSaYt": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz6TcfiWaIql9DoSaYt",
+      "jabatan": "-",
+      "namaKontak": "DAPUR WISMA",
+      "noPekerja": "0",
+      "telpKantor": "4332",
+      "telpRumah": "0"
+    },
+    "-Nz6Tm2AuYJJKyEbHxaS": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz6Tm2AuYJJKyEbHxaS",
+      "jabatan": "-",
+      "namaKontak": "KAMAR VIP 1",
+      "noPekerja": "0",
+      "telpKantor": "4336",
+      "telpRumah": "0"
+    },
+    "-Nz6TvJrRF6h27MtfxjJ": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz6TvJrRF6h27MtfxjJ",
+      "jabatan": "-",
+      "namaKontak": "KAMAR VIP 2",
+      "noPekerja": "0",
+      "telpKantor": "4335",
+      "telpRumah": "0"
+    },
+    "-Nz6UCgtriGfeKcnBHiB": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz6UCgtriGfeKcnBHiB",
+      "jabatan": "-",
+      "namaKontak": "KAMAR VIP 3",
+      "noPekerja": "0",
+      "telpKantor": "4334",
+      "telpRumah": "0"
+    },
+    "-Nz7UYnQeX9CPdQ-sVV4": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz7UYnQeX9CPdQ-sVV4",
+      "jabatan": "-",
+      "namaKontak": "KAMAR STANDART 1",
+      "noPekerja": "0",
+      "telpKantor": "4171",
+      "telpRumah": "0"
+    },
+    "-Nz7UhlHHAWYFcVU6B-x": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz7UhlHHAWYFcVU6B-x",
+      "jabatan": "-",
+      "namaKontak": "KAMAR STANDART 2",
+      "noPekerja": "0",
+      "telpKantor": "4172",
+      "telpRumah": "0"
+    },
+    "-Nz7UvpVYiQRBlJZVZQP": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz7UvpVYiQRBlJZVZQP",
+      "jabatan": "-",
+      "namaKontak": "KAMAR STANDART 3",
+      "noPekerja": "0",
+      "telpKantor": "4173",
+      "telpRumah": "0"
+    },
+    "-Nz7V5wlGBAPOeFaoZbi": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz7V5wlGBAPOeFaoZbi",
+      "jabatan": "-",
+      "namaKontak": "KAMAR STANDART 4",
+      "noPekerja": "0",
+      "telpKantor": "4174",
+      "telpRumah": "0"
+    },
+    "-Nz7VHlKnPmWjx6EkBXE": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz7VHlKnPmWjx6EkBXE",
+      "jabatan": "-",
+      "namaKontak": "KAMAR STANDART 5",
+      "noPekerja": "0",
+      "telpKantor": "4175",
+      "telpRumah": "0"
+    },
+    "-Nz7VREMAnSORPa6SjVM": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz7VREMAnSORPa6SjVM",
+      "jabatan": "-",
+      "namaKontak": "KAMAR STANDART 6",
+      "noPekerja": "0",
+      "telpKantor": "4176",
+      "telpRumah": "0"
+    },
+    "-Nz7VaypXaVQTTbqA2tY": {
+      "alamat": "Gedung Wisma Spk",
+      "bagian": "GA SPK",
+      "id": "-Nz7VaypXaVQTTbqA2tY",
+      "jabatan": "-",
+      "namaKontak": "KAMAR STANDART 7",
+      "noPekerja": "0",
+      "telpKantor": "4177",
+      "telpRumah": "0"
+    },
+    "-Nz7VizB5pclh8rtsVZW": {
+      "alamat": "JL. Cemara",
+      "bagian": "-",
+      "id": "-Nz7VizB5pclh8rtsVZW",
+      "jabatan": "-",
+      "namaKontak": "MASJID AL MUKARROMAH",
+      "noPekerja": "0",
+      "telpKantor": "4149",
+      "telpRumah": "0"
+    },
+    "-Nz7VrVNBVvCC4oxmASE": {
+      "alamat": "JL. Jati",
+      "bagian": "-",
+      "id": "-Nz7VrVNBVvCC4oxmASE",
+      "jabatan": "-",
+      "namaKontak": "GEREJA EFRATA",
+      "noPekerja": "0",
+      "telpKantor": "4139",
+      "telpRumah": "0"
+    },
+    "-Nz7Vzv127JaKTy0cYWI": {
+      "alamat": "Gedung Induk",
+      "bagian": "PWP",
+      "id": "-Nz7Vzv127JaKTy0cYWI",
+      "jabatan": "-",
+      "namaKontak": "KANTIN PWP",
+      "noPekerja": "0",
+      "telpKantor": "4369",
+      "telpRumah": "0"
+    },
+    "-Nz7WPndDjOroPMQKIdw": {
+      "alamat": "JL. Wijaya Kusuma E.06",
+      "bagian": "PWP",
+      "id": "-Nz7WPndDjOroPMQKIdw",
+      "jabatan": "-",
+      "namaKontak": "KOPERASI PWP",
+      "noPekerja": "0",
+      "telpKantor": "4308",
+      "telpRumah": "0"
+    },
+    "-Nz7W_QHpuylQPi3Bb5G": {
+      "alamat": "JL. Wijaya Kusuma E.05",
+      "bagian": "PWP",
+      "id": "-Nz7W_QHpuylQPi3Bb5G",
+      "jabatan": "-",
+      "namaKontak": "DAPUR PWP",
+      "noPekerja": "0",
+      "telpKantor": "4681",
+      "telpRumah": "0"
+    },
+    "-Nz7WnTI0XUhTqH9mFLA": {
+      "alamat": "JL. Cendana",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7WnTI0XUhTqH9mFLA",
+      "jabatan": "Ketua Harian Yayasan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4130",
+      "telpRumah": "0"
+    },
+    "-Nz7Wxhi8sTbuXEtWXYM": {
+      "alamat": "JL. Tanjung",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7Wxhi8sTbuXEtWXYM",
+      "jabatan": "Ka. TK Yayasan",
+      "namaKontak": "NURLIA",
+      "noPekerja": "0",
+      "telpKantor": "4131",
+      "telpRumah": "0"
+    },
+    "-Nz7XAQq10-JBCWyorB0": {
+      "alamat": "JL. Cendana",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7XAQq10-JBCWyorB0",
+      "jabatan": "Ka. SD Yayasan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4132",
+      "telpRumah": "0"
+    },
+    "-Nz7XKlXUy2gduL7y-Mr": {
+      "alamat": "JL. Cendana",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7XKlXUy2gduL7y-Mr",
+      "jabatan": "Keuangan Yayasan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4133",
+      "telpRumah": "0"
+    },
+    "-Nz7XWBe2GGInju5FUas": {
+      "alamat": "JL. Wijaya Kusuma",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7XWBe2GGInju5FUas",
+      "jabatan": "Ka. SLTP Yayasan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4134",
+      "telpRumah": "0"
+    },
+    "-Nz7XeVygUeZWm-4CWcx": {
+      "alamat": "JL. Wijaya Kusuma",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7XeVygUeZWm-4CWcx",
+      "jabatan": "Majelis Guru SLTP Yayasan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4135",
+      "telpRumah": "0"
+    },
+    "-Nz7Xw0GGeNNSdQY0APM": {
+      "alamat": "JL. Cendana",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7Xw0GGeNNSdQY0APM",
+      "jabatan": "R. Majelis Guru SD",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4330",
+      "telpRumah": "0"
+    },
+    "-Nz7YBxTwHQY5wDoVp-y": {
+      "alamat": "JL. Cemara",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7YBxTwHQY5wDoVp-y",
+      "jabatan": "Ka. MDTA Yayasan",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4138",
+      "telpRumah": "0"
+    },
+    "-Nz7YbWX7hNkxCAYi0Zd": {
+      "alamat": "JL. Teratai",
+      "bagian": "YAYASAN SURIPERDANA",
+      "id": "-Nz7YbWX7hNkxCAYi0Zd",
+      "jabatan": "-",
+      "namaKontak": "MINI MARKET",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4339"
+    },
+    "-Nz7YmDgUtYTZrGlAYZA": {
+      "alamat": "JL. Anggrek",
+      "bagian": "GA SPK",
+      "id": "-Nz7YmDgUtYTZrGlAYZA",
+      "jabatan": "-",
+      "namaKontak": "BP. BULOPA",
+      "noPekerja": "0",
+      "telpKantor": "4337",
+      "telpRumah": "0"
+    },
+    "-Nz7YwaXVgclE_3AJlcO": {
+      "alamat": "JL. Mahoni",
+      "bagian": "GA SPK",
+      "id": "-Nz7YwaXVgclE_3AJlcO",
+      "jabatan": "-",
+      "namaKontak": "SANGGAR PRAMUKA",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4511"
+    },
+    "-Nz7Z8XI41hgSfpnFa2i": {
+      "alamat": "JL. Cendana",
+      "bagian": "GA SPK",
+      "id": "-Nz7Z8XI41hgSfpnFa2i",
+      "jabatan": "-",
+      "namaKontak": "LAP UPACARA KTR INDUK",
+      "noPekerja": "0",
+      "telpKantor": "4101",
+      "telpRumah": "0"
+    },
+    "-Nz7ZIQKUJJBmm8ZS_XA": {
+      "alamat": "JL. Jend. Sudirman Sejangat",
+      "bagian": "PWP",
+      "id": "-Nz7ZIQKUJJBmm8ZS_XA",
+      "jabatan": "-",
+      "namaKontak": "BANK SAMPAH",
+      "noPekerja": "0",
+      "telpKantor": "4399",
+      "telpRumah": "0"
+    },
+    "-Nz7ZSyy0VRacyYcGIGI": {
+      "alamat": "JL. Melati R.11",
+      "bagian": "PIHAK KE III",
+      "id": "-Nz7ZSyy0VRacyYcGIGI",
+      "jabatan": "SYAHBANDAR",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4604"
+    },
+    "-Nz7Zd8MzJCVSO-BSJS4": {
+      "alamat": "JL. Rambutan D.47",
+      "bagian": "PIHAK KE III",
+      "id": "-Nz7Zd8MzJCVSO-BSJS4",
+      "jabatan": "-",
+      "namaKontak": "PT. PBAS",
+      "noPekerja": "0",
+      "telpKantor": "4680",
+      "telpRumah": "0"
+    },
+    "-Nz7ZpjTt_OxQkRB30kI": {
+      "alamat": "Gedung I.T",
+      "bagian": "I.T SPK",
+      "id": "-Nz7ZpjTt_OxQkRB30kI",
+      "jabatan": "Teknisi Komputer",
+      "namaKontak": "AHMAD MAKHRUJANI",
+      "noPekerja": "0",
+      "telpKantor": "4374",
+      "telpRumah": "0"
+    },
+    "-Nz7Zz0UnLCqr31Z35DH": {
+      "alamat": "JL. Ketapang YS.03",
+      "bagian": "-",
+      "id": "-Nz7Zz0UnLCqr31Z35DH",
+      "jabatan": "-",
+      "namaKontak": "KHAIRUL AMRI",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4649"
+    },
+    "-Nz7_7h_Glp1I9yIUyEN": {
+      "alamat": "Area Kantor Induk",
+      "bagian": "GA SPK",
+      "id": "-Nz7_7h_Glp1I9yIUyEN",
+      "jabatan": "-",
+      "namaKontak": "POSKO CCTV",
+      "noPekerja": "0",
+      "telpKantor": "4320",
+      "telpRumah": "0"
+    },
+    "-Nz7_bmUH_eJOhyMCm0g": {
+      "alamat": "Kantor Marine",
+      "bagian": "MARINE REG I SPK",
+      "id": "-Nz7_bmUH_eJOhyMCm0g",
+      "jabatan": "Ruang Rapat Marine",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4298",
+      "telpRumah": "0"
+    },
+    "-Nz7_t0-WUsGaNlCwbXg": {
+      "alamat": "-",
+      "bagian": "I.T SPK",
+      "id": "-Nz7_t0-WUsGaNlCwbXg",
+      "jabatan": "Workshop IT",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4300",
+      "telpRumah": "0"
+    },
+    "-Nz7a12KL5xIiZLxTnFr": {
+      "alamat": "Kantor Induk",
+      "bagian": "MAN PROD SPK",
+      "id": "-Nz7a12KL5xIiZLxTnFr",
+      "jabatan": "Ruang Rapat Premium",
+      "namaKontak": "Tidak Ada Nama Kontak",
+      "noPekerja": "0",
+      "telpKantor": "4204",
+      "telpRumah": "0"
+    },
+    "-Nz7a9j8KZbDAylGaV-j": {
+      "alamat": "Jetty 2",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7a9j8KZbDAylGaV-j",
+      "jabatan": "-",
+      "namaKontak": "JETTY II",
+      "noPekerja": "0",
+      "telpKantor": "4217",
+      "telpRumah": "0"
+    },
+    "-Nz7aKhe89AoFov1CL4t": {
+      "alamat": "JL. Durian D.77",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7aKhe89AoFov1CL4t",
+      "jabatan": "Jr Operator I Pump & Aux",
+      "namaKontak": "FACHREZA ARDIAN",
+      "noPekerja": "751230",
+      "telpKantor": "4301",
+      "telpRumah": "0"
+    },
+    "-Nz7aVQEeSQwrqD-8bFB": {
+      "alamat": "Sei Dayang",
+      "bagian": "GA SPK",
+      "id": "-Nz7aVQEeSQwrqD-8bFB",
+      "jabatan": "-",
+      "namaKontak": "POS SEI DAYANG",
+      "noPekerja": "0",
+      "telpKantor": "4154",
+      "telpRumah": "0"
+    },
+    "-Nz7ahT3Sm6O4X5VEfgq": {
+      "alamat": "Sei Dayang",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7ahT3Sm6O4X5VEfgq",
+      "jabatan": "-",
+      "namaKontak": "OPERATOR WATER INTAKE SEI DAYANG",
+      "noPekerja": "0",
+      "telpKantor": "4196",
+      "telpRumah": "0"
+    },
+    "-Nz7auYG_Sf1jdw_MHKt": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7auYG_Sf1jdw_MHKt",
+      "jabatan": "JR OPR I WTP/WDCP/WIS",
+      "namaKontak": "MUHAMMAD IQBAL",
+      "noPekerja": "755889",
+      "telpKantor": "4193",
+      "telpRumah": "4632"
+    },
+    "-Nz7b84YhNXmW42qlt4W": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7b84YhNXmW42qlt4W",
+      "jabatan": "JR OPRT I WTP.WDCP/WIS",
+      "namaKontak": "DANANG RIYANTO",
+      "noPekerja": "755693",
+      "telpKantor": "4302",
+      "telpRumah": "4633"
+    },
+    "-Nz7bZ_9DTPf8m9DmnJM": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7bZ_9DTPf8m9DmnJM",
+      "jabatan": "JR OPRT I WTP.WDCP/WIS",
+      "namaKontak": "MICHEAL YULINADA",
+      "noPekerja": "755845",
+      "telpKantor": "4302",
+      "telpRumah": "4452"
+    },
+    "-Nz7cXBqUMifClHUI4WY": {
+      "alamat": "YS. 06",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7cXBqUMifClHUI4WY",
+      "jabatan": "JR OPR I WTP/WDCP/WIS",
+      "namaKontak": "MUAMMAR QADDAFI",
+      "noPekerja": "755806",
+      "telpKantor": "4193",
+      "telpRumah": "4634"
+    },
+    "-Nz7clno67XfArsfTXNt": {
+      "alamat": "YS. 02",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7clno67XfArsfTXNt",
+      "jabatan": "JR OPR I WTP/WDCP/WIS",
+      "namaKontak": "GEDE FAKHRI PUTRA",
+      "noPekerja": "755962",
+      "telpKantor": "4193",
+      "telpRumah": "4643"
+    },
+    "-Nz7d2yaUSA_g2xl4MQp": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7d2yaUSA_g2xl4MQp",
+      "jabatan": "JR OPR II JETTY",
+      "namaKontak": "M LUTHFI WIBOWO",
+      "noPekerja": "755910",
+      "telpKantor": "4302",
+      "telpRumah": "4646"
+    },
+    "-Nz7dJU1je2ak_wU-4JY": {
+      "alamat": "D. 48",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7dJU1je2ak_wU-4JY",
+      "jabatan": "JR OPR I WTP/WDCP/WIS",
+      "namaKontak": "AL NAUFAL NAVITAMA",
+      "noPekerja": "755633",
+      "telpKantor": "4193",
+      "telpRumah": "4645"
+    },
+    "-Nz7dV6BjOk9TdG-M2OJ": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7dV6BjOk9TdG-M2OJ",
+      "jabatan": "R OPR I WTP/WDCP/WIS",
+      "namaKontak": "WAHYU RIZALDI",
+      "noPekerja": "755863",
+      "telpKantor": "4193",
+      "telpRumah": "4644"
+    },
+    "-Nz7djwqT0AHF9OLh08z": {
+      "alamat": "Jl. Teratai R.04",
+      "bagian": "HSSE SPK",
+      "id": "-Nz7djwqT0AHF9OLh08z",
+      "jabatan": "Spv Security",
+      "namaKontak": "DARYONO",
+      "noPekerja": "0",
+      "telpKantor": "4290",
+      "telpRumah": "4476"
+    },
+    "-Nz7dvglScZYA7AV16CA": {
+      "alamat": "E. 27",
+      "bagian": "HSSE SPK",
+      "id": "-Nz7dvglScZYA7AV16CA",
+      "jabatan": "-",
+      "namaKontak": "TAUFIK HIDAYAT",
+      "noPekerja": "0",
+      "telpKantor": "4322",
+      "telpRumah": "4541"
+    },
+    "-Nz7e4w6AcMVFoKBXDM8": {
+      "alamat": "D. 13",
+      "bagian": "HSSE SPK",
+      "id": "-Nz7e4w6AcMVFoKBXDM8",
+      "jabatan": "-",
+      "namaKontak": "M. AZIZIL JABBAR",
+      "noPekerja": "0",
+      "telpKantor": "4322",
+      "telpRumah": "4542"
+    },
+    "-Nz7eH67wySvZv-BlTQT": {
+      "alamat": "JL. Flamboyan E. 41",
+      "bagian": "HSSE SPK",
+      "id": "-Nz7eH67wySvZv-BlTQT",
+      "jabatan": "Jr Act I Fire Support",
+      "namaKontak": "YOGA HANAFI H",
+      "noPekerja": "756361",
+      "telpKantor": "4322",
+      "telpRumah": "4543"
+    },
+    "-Nz7eSUVse0GpQHFymzP": {
+      "alamat": "E.14",
+      "bagian": "HSSE SPK",
+      "id": "-Nz7eSUVse0GpQHFymzP",
+      "jabatan": "-",
+      "namaKontak": "RAHMAD DWIMA",
+      "noPekerja": "0",
+      "telpKantor": "4322",
+      "telpRumah": "4534"
+    },
+    "-Nz7egrnUxCAKETcl1IG": {
+      "alamat": "Gedung WDCP",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7egrnUxCAKETcl1IG",
+      "jabatan": "-",
+      "namaKontak": "WDCP",
+      "noPekerja": "0",
+      "telpKantor": "4316",
+      "telpRumah": "0"
+    },
+    "-Nz7ev3tAeE29QO59vE8": {
+      "alamat": "JL. WIJAYA KUSUMA NO. 03",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-Nz7ev3tAeE29QO59vE8",
+      "jabatan": "Sr. Mech Electrical",
+      "namaKontak": "SURANTO",
+      "noPekerja": "753871",
+      "telpKantor": "4346",
+      "telpRumah": "4479"
+    },
+    "-Nz7f4_Hb07i0KFAV6V7": {
+      "alamat": "POOL ANGKUTAN",
+      "bagian": "HSSE SPK",
+      "id": "-Nz7f4_Hb07i0KFAV6V7",
+      "jabatan": "-",
+      "namaKontak": "R. DEMOROOM",
+      "noPekerja": "0",
+      "telpKantor": "4383",
+      "telpRumah": "0"
+    },
+    "-Nz7fHGMkJ5bftTy55kT": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7fHGMkJ5bftTy55kT",
+      "jabatan": "Jr ENG II OFFIISTE FAC PROCESS",
+      "namaKontak": "ARYA ANINDA W",
+      "noPekerja": "755064",
+      "telpKantor": "4396",
+      "telpRumah": "0"
+    },
+    "-Nz7fUWOnigy1XwiSNcf": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-Nz7fUWOnigy1XwiSNcf",
+      "jabatan": "SHIFT SPV CDU",
+      "namaKontak": "BUDI DARMAWAN",
+      "noPekerja": "728306",
+      "telpKantor": "4313",
+      "telpRumah": "0"
+    },
+    "-NzBHo5xDFUM4ZScpA8B": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NzBHo5xDFUM4ZScpA8B",
+      "jabatan": "JR OPRT I HEATER/TOWER",
+      "namaKontak": "REVIN NAZIF AL",
+      "noPekerja": "756342",
+      "telpKantor": "4315",
+      "telpRumah": "4521"
+    },
+    "-NzBHzhXkQyE8e9SW4qR": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NzBHzhXkQyE8e9SW4qR",
+      "jabatan": "LOAD MASTER I SPK",
+      "namaKontak": "MHD HANAFI",
+      "noPekerja": "747042",
+      "telpKantor": "4314",
+      "telpRumah": "0"
+    },
+    "-NzBI8YuBRMY2wvW4Tkv": {
+      "alamat": "-",
+      "bagian": "PRODUCTION SPK",
+      "id": "-NzBI8YuBRMY2wvW4Tkv",
+      "jabatan": "JR OPRT I IPAL & SEPERATOR",
+      "namaKontak": "MUHAMMAD HAIKAL",
+      "noPekerja": "756346",
+      "telpKantor": "4304",
+      "telpRumah": "0"
+    },
+    "-NzBIL_LamCBPG5RP-3o": {
+      "alamat": "JL. Flamboyan E. 23",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NzBIL_LamCBPG5RP-3o",
+      "jabatan": "Jr. Technician I Electrical & Instrument",
+      "namaKontak": "MUHAMMAD IVALDY",
+      "noPekerja": "756379",
+      "telpKantor": "4364",
+      "telpRumah": "0"
+    },
+    "-NzBIVxj-i0Km-djfgC4": {
+      "alamat": "-",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NzBIVxj-i0Km-djfgC4",
+      "jabatan": "Sr. Supervisor Maintenance",
+      "namaKontak": "IKSAN ABDULLAH",
+      "noPekerja": "727967",
+      "telpKantor": "4363",
+      "telpRumah": "0"
+    },
+    "-NzBJ0Sp7ENinsEMjBZi": {
+      "alamat": "-",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NzBJ0Sp7ENinsEMjBZi",
+      "jabatan": "Jr. Technician NRE & Civil",
+      "namaKontak": "RIZKI VAITA PUTRA",
+      "noPekerja": "756373",
+      "telpKantor": "4258",
+      "telpRumah": "0"
+    },
+    "-NzBJC_P8keoCB039t5P": {
+      "alamat": "-",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NzBJC_P8keoCB039t5P",
+      "jabatan": "Sr Technician I Mechanical & Civil",
+      "namaKontak": "WILLIAM HARTANTO",
+      "noPekerja": "755610",
+      "telpKantor": "4350",
+      "telpRumah": "0"
+    },
+    "-NzBJNxB9ccNfRdcy_-3": {
+      "alamat": "-",
+      "bagian": "MAINTENANCE SPK",
+      "id": "-NzBJNxB9ccNfRdcy_-3",
+      "jabatan": "Jr. Analyst I Planning NRE & Civil",
+      "namaKontak": "ARIEF MUHAMMAD HAEKAL",
+      "noPekerja": "746087",
+      "telpKantor": "4352",
+      "telpRumah": "0"
+    },
+    "-NzBJlZDb-tblCRfl3qO": {
+      "alamat": "JL. Melati D.15",
+      "bagian": "HSSE SPK",
+      "id": "-NzBJlZDb-tblCRfl3qO",
+      "jabatan": "Jr Ast I Fire Support Spk",
+      "namaKontak": "IYAN CAHYADI F",
+      "noPekerja": "756369",
+      "telpKantor": "4322",
+      "telpRumah": "4576"
+    },
+    "-NzBJxYqacBlJVSJ2L8_": {
+      "alamat": "PATRA MART",
+      "bagian": "PWP",
+      "id": "-NzBJxYqacBlJVSJ2L8_",
+      "jabatan": "PWP",
+      "namaKontak": "KANTOR PWP",
+      "noPekerja": "0",
+      "telpKantor": "4683",
+      "telpRumah": "0"
+    },
+    "-NzBK4sfXbJCxylndBjS": {
+      "alamat": "KOPERASI PWP",
+      "bagian": "PWP",
+      "id": "-NzBK4sfXbJCxylndBjS",
+      "jabatan": "-",
+      "namaKontak": "ADSL KOPERASI PWP",
+      "noPekerja": "0",
+      "telpKantor": "4684",
+      "telpRumah": "0"
+    },
+    "-NzBKGJpvZFhen1FISto": {
+      "alamat": "E.44",
+      "bagian": "HSSE SPK",
+      "id": "-NzBKGJpvZFhen1FISto",
+      "jabatan": "-",
+      "namaKontak": "SOULI",
+      "noPekerja": "0",
+      "telpKantor": "4322",
+      "telpRumah": "4428"
+    },
+    "-NzBKQ_sgL7YWIUgseOw": {
+      "alamat": "KANTOR INDUK",
+      "bagian": "GA SPK",
+      "id": "-NzBKQ_sgL7YWIUgseOw",
+      "jabatan": "-",
+      "namaKontak": "TIM PROPER SPK",
+      "noPekerja": "0",
+      "telpKantor": "4360",
+      "telpRumah": "0"
+    },
+    "-NzBKQb-y49JFGytS1KH": {
+      "alamat": "KANTOR INDUK",
+      "bagian": "GA SPK",
+      "id": "-NzBKQb-y49JFGytS1KH",
+      "jabatan": "-",
+      "namaKontak": "TIM PROPER SPK",
+      "noPekerja": "0",
+      "telpKantor": "4360",
+      "telpRumah": "0"
+    },
+    "-NzBKc7-GByYqVpRooba": {
+      "alamat": "JL. SEDAP MALAM D. 06",
+      "bagian": "PROCUREMENT SPK",
+      "id": "-NzBKc7-GByYqVpRooba",
+      "jabatan": "-",
+      "namaKontak": "EKO SAPUTRO",
+      "noPekerja": "0",
+      "telpKantor": "0",
+      "telpRumah": "4597"
+    },
+    "-NzBKosReehjVCT9OzY-": {
+      "alamat": "D. 41",
+      "bagian": "HSSE SPK",
+      "id": "-NzBKosReehjVCT9OzY-",
+      "jabatan": "BKO SECURITY",
+      "namaKontak": "ILHAM SULAIMAN",
+      "noPekerja": "0",
+      "telpKantor": "4291",
+      "telpRumah": "4594"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1056239977921",
+    "firebase_url": "https://apk-buku-telepon-default-rtdb.firebaseio.com",
+    "project_id": "apk-buku-telepon",
+    "storage_bucket": "apk-buku-telepon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056239977921:android:3facc9c58bc7b62115db40",
+        "android_client_info": {
+          "package_name": "com.magangpertamina.apkbukutelepon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3KHx61-FYhLsule73Ax3MHqJT_vyrMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

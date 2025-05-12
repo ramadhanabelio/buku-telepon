@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Gradient -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#EADFB4"
+                android:endColor="#006CB8"
+                android:angle="45" />
+        </shape>
+    </item>
+    <!-- Gelombang -->
+    <item android:top="45dp"> <!-- Atur ketinggian gelombang sesuai keinginan -->
+        <vector
+            android:height="84dp"
+            android:width="360dp"
+            android:viewportWidth="360"
+            android:viewportHeight="86"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+            <path
+                android:fillColor="#ED1B2F"
+                android:pathData="M360,19C352.582,41.202 331.338,50.823 296.266,47.862C243.659,43.422 200.15,29.245 146.721,63.404C111.102,86.176 62.195,72.3 -0,21.775L-0,108C54.667,129.333 114.667,140 180,140C245.333,140 305.333,129.333 360,108L360,19Z"
+                android:strokeColor="#00000000"
+                android:strokeWidth="1.0"
+                android:fillAlpha="0.06"
+                android:fillType="evenOdd" />
+        </vector>
+    </item>
+</layer-list>
